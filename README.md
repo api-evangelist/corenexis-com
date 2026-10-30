@@ -64,5 +64,140 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-corenexis-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://corenexis.com/
+Corenexis builds developer-friendly APIs, a sign‑in service for apps, and Cashly, a smart expense, EMI and debt tracker. The platform offers nine production APIs—including PDF rendering, OCR, image conversion and delivery, email validation, and QR/ barcode generation—accessible via clean REST endpoints with free and paid plans, rate limits, SLA, and dedicated support. Founded in 2022 by Raushan and Shyamini, Corenexis aims to simplify integration for developers and businesses.
+
+**Areas:** Company · API · Platform · DeveloperTools · FinTech · SaaS
+
+## corenexis-com on APIs.io
+
+Everything profiled for corenexis-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/corenexis-com/](https://apis.io/providers/corenexis-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [corenexis-com API](https://apis.io/apis/corenexis-com/corenexis-com-api/) — corenexis-com API as documented publicly: 8 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PostF35At4D5YcjqPdfResponse](https://apis.io/schemas/corenexis-com/corenexis-com-post-f35-at4-d5-ycjq-pdf-response/)
+- [PostFQlm6VwhvlurPdfResponse](https://apis.io/schemas/corenexis-com/corenexis-com-post-fqlm6-vwhvlur-pdf-response/)
+- [PostWpJsonCorenexisV1LoginRequest](https://apis.io/schemas/corenexis-com/corenexis-com-post-wp-json-corenexis-v1-login-request/)
+- [PostWpJsonCorenexisV1PluginsActivateRequest](https://apis.io/schemas/corenexis-com/corenexis-com-post-wp-json-corenexis-v1-plugins-activate-request/)
+- [PostWpJsonCorenexisV1PostsRequest](https://apis.io/schemas/corenexis-com/corenexis-com-post-wp-json-corenexis-v1-posts-request/)
+- [PostWpJsonCorenexisV1UsersRequest](https://apis.io/schemas/corenexis-com/corenexis-com-post-wp-json-corenexis-v1-users-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Corenexis Com Context](https://apis.io/jsonld/corenexis-com/corenexis-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Corenexis Com Openapi Overlay](https://apis.io/overlays/corenexis-com/corenexis-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [corenexis-com API Rules](https://apis.io/rules/corenexis-com/corenexis-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Corenexis Com Authentication](https://apis.io/security/corenexis-com/corenexis-com-authentication/)
+- [Corenexis Com Domain Security](https://apis.io/security/corenexis-com/corenexis-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Corenexis Com Scopes](https://apis.io/scopes/corenexis-com/corenexis-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Corenexis Com Plans Pricing](https://apis.io/plans/corenexis-com/corenexis-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Corenexis Com Rate Limits](https://apis.io/rate-limits/corenexis-com/corenexis-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://corenexis.com/)
+- [Documentation](https://api.corenexis.com/)
+- [Sign up](https://dash.corenexis.com/auth/login)
+- [Blog](https://blog.corenexis.com/)
+- [Security](https://blog.corenexis.com/category/security)
+- [Terms of service](https://corenexis.com/terms-of-service)
+- [Privacy policy](https://corenexis.com/privacy)
+- [GitHub](https://github.com/Core-Nexis)
+
+## API Evangelist rating
+
+**Kin Score 59.1** — strong · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 55.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 44.2 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 62.6 |
+
+**Agent readiness 49.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/corenexis-com/](https://apis.io/providers/corenexis-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for corenexis-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/corenexis-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
